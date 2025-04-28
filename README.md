@@ -6,7 +6,7 @@ Este projeto tem como objetivo a análise de dados hidrológicos obtidos de trê
 
 ## Descrição do Problema
 
-Você receberá um conjunto de dados contendo as seguintes séries temporais:
+Temos um conjunto de dados contendo as seguintes séries temporais:
 
 - Chuva no Ponto A (precipitação registrada em um determinado local da bacia hidrográfica);
 - Vazão no Ponto A (vazão observada no rio neste mesmo ponto);
